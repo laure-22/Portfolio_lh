@@ -1,0 +1,37 @@
+.nav{
+    background-attachment: fixed;
+    background-color:#1F3B2C ;
+    
+}
+.icon{
+}
+.nav-link{
+    color: #F5F3F5;
+    font-family: 'Sarabun', sans-serif;
+}
+.container-fluid{
+    width:90%;
+    justify-content: center;
+    text-align: center;
+
+}
+p{
+    color: #9D8A76 ;
+    display: block;
+    margin-top: 40px;
+    margin-block-start: 1em;
+    margin-block-end:1em ;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    justify-content: center;
+}
+
+.footer{
+    background-color:#9D8A76 ;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+
+}
